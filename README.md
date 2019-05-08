@@ -1,6 +1,6 @@
 # Duque-tweet
 Español: 
-Transforma el twitter del presidente Duque para ser leido como escrito por un niño con Crayones.
+Transforma el twitter del presidente Duque (o de quien sea solo es una linea de código ahora) para ser leido como escrito por un niño con Crayones.
 
 <h3>Proceso para instalar la extension de chrome : </h3>
 <ul>
