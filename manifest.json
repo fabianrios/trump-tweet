@@ -1,9 +1,9 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 2,
-    "name": "Font || kais ",
+    "name": "Duque font change > Font || kais ",
     "version": "2.0",
-    "description": "Change font",
+    "description": "Change font on twitter",
     "permissions": [
         "https://twitter.com/*", 
         "http://twitter.com/*"
