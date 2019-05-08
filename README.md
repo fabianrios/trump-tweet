@@ -12,7 +12,7 @@ Transforma el twitter del presidente Duque para ser leido como escrito por un ni
 <li>Listo.</li>
 </ul>
 <p>
-Esto se podria presentar en la tienda de oficial de chrome extensions pero me da pereza el que quiera hacerlo bien pueda.
+Esto se podria presentar en la tienda de oficial de chrome extensions pero me da pereza, el que quiera hacerlo bien pueda.
 </p>
 
 ![screen test](https://i.imgur.com/5RApR3h.png)
